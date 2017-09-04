@@ -20,12 +20,12 @@
 	</div>
 	
 	<div class="floatCage2">
-		<div class="floatBox2">
+		<div class="floatBox2" style="min-width: 150px">
 			<p>
 				<a href="www.thorandrew.com/andrew">Andrew's Site</a>
 			</p>
 			<p class="desc"> 
-				<img src="images/sciPineLogo.png" width="30%">
+				<img src="images/sciPineLogo.png" style="width: 30%; display: block; margin-left: auto; margin-right: auto;">
 			</p>
 		</div>
 		<div class="floatBox2">
