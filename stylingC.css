@@ -3,13 +3,13 @@
 }
 
 body {
-    background-color: #212121;
+    background-color: #0c3e0b;
     font-size: 100%;
 }
 
 h1 {
 	font-family:verdana, sans;
-	color:#212121;
+	color:#0c3d0c;
 	margin-top: 1%;
 	margin-bottom: 1%;
 }
@@ -23,7 +23,7 @@ h2 {
 p {
 	font-size: 1em;
 	font-family:verdana, sans;
-	color:#525252;
+	color:#6e4903;
 	padding: 10px;
 	padding-top: 0px;	
 }
@@ -45,7 +45,7 @@ p {
 .desc {
 	font-size: 1em;
 	font-family:verdana, sans;
-	color:#525252;
+	color:#6e4903;
 	text-align:left;
 	font-style: italic;
 	margin-top: -15px;
@@ -70,10 +70,11 @@ a {
 }
 
 .floatBox1{
-	background-color:#edeef3;
+	background-color:#f5ebbe;
     color:#983232;
     text-align:center;
-	border: 3px double #5a5a5a;
+	border: 3px double #d3b004;
+	border-radius:10px;
 	
     margin: 0%;
     margin-bottom: 0%;
@@ -88,10 +89,11 @@ a {
 }
 
 .floatBox2{
-	background-color:#edeef3;
+	background-color:#f5ebbe;
     color:#983232;
     text-align:center;
-	border: 3px double #5a5a5a;
+	border: 1px double #d3b004;
+	border-radius:10px;
 	
     margin: 0%;
     margin-bottom: 0%;
@@ -105,10 +107,11 @@ a {
 }
 
 .floatBox3{
-	background-color:#edeef3;
+	background-color:#f5ebbe;
     color:#983232;
     text-align:center;
-	border: 3px double #5a5a5a;
+	border: 1px double #d3b004;
+	border-radius:10px;
 	
     margin: 0%;
     margin-bottom: 0%;
