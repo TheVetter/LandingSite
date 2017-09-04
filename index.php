@@ -21,23 +21,19 @@
 	
 	<div class="floatCage2">
 		
-		<a href="/andrew" style="text-decoration:none">
-		<div class="floatBox2" style="min-width: 150px; color: #427737;">
+		<a href="/andrew" class="floatBox2" style="min-width: 150px; color: #427737;text-decoration:none;">
 				<p style="font-size: 130%">Andrew's Site</p>
 			<p class="desc"> 
 				<img src="images/sciPineLogo.png" style="width: 20%; display: block; margin-left: auto; margin-right: auto;">
 			</p>
-		</div>
 		</a>
 		
-		<a href="/thor" style="text-decoration:none">
-		<div class="floatBox2" style="min-width: 150px; color: #427737;">
+		<a href="/thor" class="floatBox2" style="min-width: 150px; color: #427737;text-decoration:none;">
 			<p style="font-size: 130%">Thor's Site</p>
 			<p class="desc" style="align:center"> 
 				Sorry; I don't have a fancy picture like Andrew.
 				<br><br><br><br><br><br>
 			</p>
-		</div>
 		</a>
 		
 	</div>
