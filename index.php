@@ -23,7 +23,7 @@
 		
 		<div class="floatBox2" style="min-width: 150px; color: #427737;">
 			<p>
-				<a href="www.thorandrew.com/andrew" style="font-size: 130%">Andrew's Site</a>
+				<a href="/andrew" style="font-size: 130%">Andrew's Site</a>
 			</p>
 			<p class="desc"> 
 				<img src="images/sciPineLogo.png" style="width: 20%; display: block; margin-left: auto; margin-right: auto;">
@@ -32,7 +32,7 @@
 		
 		<div class="floatBox2" style="min-width: 150px; color: #427737;">
 			<p>
-				<a href="www.thorandrew.com/thor" style="font-size: 130%">Thor's Site</a>
+				<a href="/thor" style="font-size: 130%">Thor's Site</a>
 			</p>
 			<p class="desc"> 
 				Sorry; I don't have a fancy picture like Andrew.
@@ -44,7 +44,7 @@
 	
 	<div class="floatCage1">
 		<div class="floatBox1">
-				<a href="www.thorandrew.com/nextcloud" style="font-size: 100%">Nextcloud Instance</a>
+				<a href="/nextcloud" style="font-size: 100%">Nextcloud Instance</a>
 		</div>
 	</div>
 	
