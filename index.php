@@ -21,7 +21,7 @@
 	
 	<div class="floatCage2">
 		
-		<a href="/andrew"><div class="floatBox2" style="min-width: 150px; color: #427737;">
+		<a href="/andrew" style="text-decoration:none"><div class="floatBox2" style="min-width: 150px; color: #427737;">
 			<p>
 				<p style="font-size: 130%">Andrew's Site</p>
 			</p>
@@ -30,22 +30,24 @@
 			</p>
 		</div></a>
 		
-		<div class="floatBox2" style="min-width: 150px; color: #427737;">
-			<p>
-				<a href="/thor" style="font-size: 130%">Thor's Site</a>
-			</p>
-			<p class="desc"> 
-				Sorry; I don't have a fancy picture like Andrew.
-				<br><br><br><br><br><br>
-			</p>
-		</div>
+			<a href="/thor" style="text-decoration:none"><div class="floatBox2" style="min-width: 150px; color: #427737;">
+				<p>
+					<p style="font-size: 130%">Thor's Site</p>
+				</p>
+				<p class="desc" style="align:center"> 
+					Sorry; I don't have a fancy picture like Andrew.
+					<br><br><br><br><br><br>
+				</p>
+		</div></a>
 		
 	</div>
 	
 	<div class="floatCage1">
-		<div class="floatBox1">
-				<a href="/nextcloud" style="font-size: 100%">Nextcloud Instance</a>
-		</div>
+		<a href="/nextcloud" style="text-decoration:none"><div class="floatBox1">
+			<br>
+			<p style="font-size: 100%">Nextcloud Instance</p>
+			<br>
+		</div></a>
 	</div>
 	
 	
