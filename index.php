@@ -21,14 +21,14 @@
 	
 	<div class="floatCage2">
 		
-		<div class="floatBox2" style="min-width: 150px; color: #427737;">
+		<a href="/andrew"><div class="floatBox2" style="min-width: 150px; color: #427737;">
 			<p>
-				<a href="/andrew" style="font-size: 130%">Andrew's Site</a>
+				<p style="font-size: 130%">Andrew's Site</p>
 			</p>
 			<p class="desc"> 
 				<img src="images/sciPineLogo.png" style="width: 20%; display: block; margin-left: auto; margin-right: auto;">
 			</p>
-		</div>
+		</div></a>
 		
 		<div class="floatBox2" style="min-width: 150px; color: #427737;">
 			<p>
