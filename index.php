@@ -8,7 +8,7 @@
 				include("formatter.html");
 			?>
 
-			<title>Downloads-Thor Hanson</title>
+			<title>THORANDREW.COM</title>
 	
 	</head>
 	
@@ -20,21 +20,31 @@
 	</div>
 	
 	<div class="floatCage2">
-		<div class="floatBox2" style="min-width: 150px">
+		
+		<div class="floatBox2" style="min-width: 150px; color: #427737;">
 			<p>
-				<a href="www.thorandrew.com/andrew">Andrew's Site</a>
+				<a href="www.thorandrew.com/andrew" style="font-size: 130%">Andrew's Site</a>
 			</p>
 			<p class="desc"> 
-				<img src="images/sciPineLogo.png" style="width: 30%; display: block; margin-left: auto; margin-right: auto;">
+				<img src="images/sciPineLogo.png" style="width: 20%; display: block; margin-left: auto; margin-right: auto;">
 			</p>
 		</div>
-		<div class="floatBox2">
+		
+		<div class="floatBox2" style="min-width: 150px; color: #427737;">
 			<p>
-				<a href="/thor/fullFiles/ArchLinuxInstall.pdf" download>Thor's Site</a>
+				<a href="www.thorandrew.com/thor" style="font-size: 130%">Thor's Site</a>
 			</p>
 			<p class="desc"> 
-				Sorry I don't have a fancy picture like Andrew.
+				Sorry; I don't have a fancy picture like Andrew.
+				<br><br><br><br><br><br>
 			</p>
+		</div>
+		
+	</div>
+	
+	<div class="floatCage1">
+		<div class="floatBox1">
+				<a href="www.thorandrew.com/nextcloud" style="font-size: 100%">Nextcloud Instance</a>
 		</div>
 	</div>
 	
