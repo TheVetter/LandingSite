@@ -3,7 +3,7 @@
 # Short bash script by Thor Hanson and Andrew Vetter
 # The multiple sleep commands are to give the user a
 # chance to cancel (ctrl+c) if they realize they've messed up.
-#The script must be run with sudo.
+# The script must be run with sudo.
 
 echo "Removing old site home landing page files..."
 sleep 2

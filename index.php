@@ -30,21 +30,12 @@
 		
 		<a href="/thor" class="floatBox2" style="min-width: 150px; color: #427737;text-decoration:none;">
 			<p style="font-size: 130%">Thor's Site</p>
-			<p class="desc" style="align:center"> 
-				Sorry; I don't have a fancy picture like Andrew.
-				<br><br><br><br><br><br>
+			<p class="desc" style="text-align: center;"> 
+				Click here to continue!
 			</p>
 		</a>
 		
 	</div>
-	
-	<div class="floatCage1">
-		<a href="/nextcloud" style="text-decoration:none"><div class="floatBox1">
-			<p style="font-size: 100%">Nextcloud Instance</p>	
-		</div></a>
-	</div>
-	
-	
-	
+		
 </html>
 
