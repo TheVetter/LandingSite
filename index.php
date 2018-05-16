@@ -4,18 +4,19 @@
 
 	<head>
 		
-		    <?php
-				include("formatter.html");
-			?>
+		<?php
+			include("formatter.html");
+		?>
 
-			<title>THORANDREW.COM</title>
-	
+		<title>THORANDREW.COM</title>
+		
 	</head>
 	
 	<div class="floatCage1">
 		<div class="floatBox1">
-				<h1 align="center" style="margin-bottom= 0px;">ThorAndrew.com</h1><br>
-				<p style="margin-top: -20px; margin-bottom: 6px;">Thor and Andrew's personal websites redirect here. Click the link you need below.</p>
+			<h1 align="center" style="margin-bottom= 0px;">ThorAndrew.com</h1><br>
+			<p style="margin-top: -20px; margin-bottom: 6px;">Thor and Andrew's personal websites redirect here. Click the link you need below.</p>
+			<br>
 		</div>
 	</div>
 	
