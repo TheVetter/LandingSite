@@ -39,9 +39,9 @@
 	</div>
 	
 	<div class="floatCage1">
-		<a href="/nextcloud" style="text-decoration:none"><div class="floatBox1">
+		<a href="/nextcloud" class="floatBox1" style="text-decoration:none">
 			<p style="font-size: 100%">Nextcloud Instance</p>	
-		</div></a>
+		</a>
 	</div
 		
 </html>
