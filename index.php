@@ -40,7 +40,7 @@
 	
 	<div class="floatCage1">
 		<a href="/nextcloud" class="floatBox1" style="min-width: 150px; color: #427737;text-decoration:none;">
-			<p class="desc" style="text-align: center;"> 
+			<p class="desc" style="text-align: center; margin-bottom: 6px; margin-top: 6px;"> 
 				Nextcloud Instance
 			</p>
 		</a>
