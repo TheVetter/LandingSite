@@ -37,6 +37,14 @@
 		</a>
 		
 	</div>
+	
+	<div class="floatCage1">
+		<a href="/nextcloud" class="floatBox1" style="min-width: 150px; color: #427737;text-decoration:none;">
+			<p class="desc" style="text-align: center;"> 
+				Nextcloud Instance
+			</p>
+		</a>
+	</div>
 		
 </html>
 
